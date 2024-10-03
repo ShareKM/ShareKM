@@ -1,43 +1,22 @@
-# Open Kinetic Modeling Initiative (OpenKMI)
+# Open KMI Code Projects
 
 ## Overview
-The Open Kinetic Modeling Initiative (OpenKMI) is an open-source effort aimed at accelerating research and educational opportunities in tracer kinetic modeling, particularly in the field of molecular imaging. This initiative focuses on providing tools and resources to support researchers and developers working on kinetic modeling for positron emission tomography (PET), with a special emphasis on emerging challenges in total-body PET imaging.
+Tracer kinetic modeling allows for quantitative characterization of molecular processes, such as those involved in cancer and other major diseases. While the field has seen extensive research over the years, its clinical adoption has been limited by technological constraints in PET scanner performance. With advancements such as total-body PET (e.g., EXPLORER), there is a renewed interest in pushing kinetic modeling forward, and the need for accessible resources has never been greater. OpenKMI seeks to meet this need by offering robust, open-source solutions that make kinetic modeling more accessible to both experienced researchers and newcomers. The [Open Kinetic Modeling Initiative (OpenKMI)](https://www.openkmi.org/) is an open-source effort aimed at accelerating research and educational opportunities in tracer kinetic modeling, particularly in the field of molecular imaging. This initiative focuses on providing tools and resources to support researchers and developers working on kinetic modeling for positron emission tomography (PET), with a special emphasis on emerging challenges in total-body PET imaging.
 
-One of the ongoing efforts of the initiative, **OpenKMAP**, is to make a set of in-house C/C++ source codes (and their MATLAB wrappers) for kinetic modeling and parametric imaging open to parametric imaging developers. This effort is also aimed to include total-body kinetic modeling developments and interfaces to be integrated with existing open-source reconstruction platforms.
+One of the ongoing efforts of the initiative, **OpenKMAP**, is to make a set of in-house C/C++ source codes (and their wrappers with other high-level programming languages such as MATLAB) for kinetic modeling and parametric imaging open to kinetic modeling developers. This effort is also aimed to include total-body kinetic modeling developments and interfaces to be integrated with existing open-source reconstruction platforms.
 
-**KMAP (Kinetic Modeling and Analysis Package)** offers a collection of source code and wrapper functions designed to implement and apply different tracer kinetic models for analyzing dynamic positron emission tomography (PET) data, particularly in response to the challenges emerging in total-body PET kinetic modeling. The primary objective of this open-source package is to share tracer kinetic modeling techniques and offer kinetic modeling developers a foundation to build upon without starting from scratch. The package is originally developed at the University of California, Davis. Its open-source version is initiated as a part of the [Open Kinetic Modeling Initiative (OpenKMI)](https://www.openkmi.org/).
+**KMAP (Kinetic Modeling and Analysis Package)** offers a collection of source code and wrapper functions designed to implement and apply different tracer kinetic models for analyzing dynamic positron emission tomography (PET) data, particularly in response to the challenges emerging in total-body PET kinetic modeling. The primary objective of this open-source package is to share tracer kinetic modeling techniques and offer kinetic modeling developers a foundation to build upon without starting from scratch. The package is originally developed at the University of California, Davis. Its open-source version is initiated as a part of the OpenKMI.
 
-As part of this initiative, two key packages have been developed and maintained:
+As part of this initiative, two key packages have been provided:
 
-- **[KMAP-C](https://github.com/OpenKMI/C-KMAP):** A C/C++ toolkit that provides a suite of routines for implementing various tracer kinetic models. These include source code and MEX files that enable integration with other software, such as MATLAB.
+- **[C-KMAP](https://github.com/OpenKMI/C-KMAP):** A C/C++ toolkit that provides a suite of routines for implementing various tracer kinetic models. These include source code and MEX files that enable integration with other software, such as MATLAB.
   
-- **[KMAP-M](https://github.com/OpenKMI/M-KMAP):** A MATLAB toolbox built on top of KMAP-C. This toolbox provides a user-friendly interface for performing kinetic modeling and analysis using MATLAB, with support for multiple operating systems including Windows, Linux, and macOS.
+- **[M-KMAP](https://github.com/OpenKMI/M-KMAP):** A MATLAB toolbox built on top of C-KMAP. This toolbox provides a user-friendly interface for performing kinetic modeling and analysis using MATLAB, with support for multiple operating systems including Windows, Linux, and macOS.
 
-Together, KMAP-C and KMAP-M offer a complete solution for researchers in tracer kinetic modeling, providing both the low-level computational tools and the high-level MATLAB functionality.
-
-## Motivation
-Tracer kinetic modeling allows for quantitative characterization of molecular processes, such as those involved in cancer and other major diseases. While the field has seen extensive research over the years, its clinical adoption has been limited by technological constraints in PET scanner performance. With advancements such as total-body PET (e.g., EXPLORER), there is a renewed interest in pushing kinetic modeling forward, and the need for accessible resources has never been greater. OpenKMI seeks to meet this need by offering robust, open-source solutions that make kinetic modeling more accessible to both experienced researchers and newcomers.
-
-## Mission
-The mission of OpenKMI is to:
-- **Provide Open-Source Tools:** Deliver comprehensive, open-source software for tracer kinetic modeling.
-- **Support Education:** Offer educational resources to help expand the community of kinetic modelers in the field of molecular imaging.
-- **Promote Collaboration:** Facilitate a community where researchers can collaborate, share code, and improve upon existing models.
-
-## Packages
-
-### [KMAP-C](https://github.com/OpenKMI/C-KMAP)
-**KMAP-C** offers a robust library of C/C++ routines specifically designed for tracer kinetic modeling. It includes precompiled MEX files for integration with MATLAB and supports the following kinetic models:
-- One-Tissue Compartmental Model (1TCM)
-- Two-Tissue Compartmental Model (2TCM)
-- Simplified Reference Tissue Model (SRTM)
-- Liver Dual-Blood Input Function Model
-
-### [KMAP-M](https://github.com/OpenKMI/M-KMAP)
-**KMAP-M** is a MATLAB toolbox that builds upon KMAP-C. It simplifies tracer kinetic modeling in MATLAB with ready-to-use wrapper functions. It is an excellent choice for researchers who prefer working within MATLAB while leveraging the computational efficiency of C/C++.
+Together, C-KMAP and M-KMAP offer a solution for researchers in tracer kinetic modeling, providing both the low-level computational tools and the high-level MATLAB functionality.
 
 ## Ongoing Efforts
-Both packages are continually being updated. The development team is working on adding new models, optimizing performance, and expanding the functionality of both KMAP-C and KMAP-M. The packages are provided “as is” without warranty, but contributions from the community are highly encouraged to improve and expand the tools.
+Both packages are continually being updated. The development team is working on adding new models, optimizing performance, and expanding the functionality of both C-KMAP and M-KMAP. The packages are provided “as is” without warranty, but contributions from the community are highly encouraged to improve and expand the tools.
 
 ## Contributing
 We welcome contributions from the community! Whether you’d like to suggest improvements, report bugs, or contribute code, we encourage you to get involved. Please refer to the contribution guidelines in each repository for more details.
