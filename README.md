@@ -5,9 +5,9 @@ The [Open Kinetic Modeling Initiative (OpenKMI)](https://www.openkmi.org/) is an
 
 ## OpenKMAP: an OpenKMI code project
 
-One of the ongoing efforts of the initiative, **OpenKMAP**, is to make a set of in-house C/C++ source codes (and their wrappers with other high-level programming languages such as MATLAB) for kinetic modeling and parametric imaging open to kinetic modeling developers. **KMAP (Kinetic Modeling and Analysis Package)** offers a collection of source code and wrapper functions designed to implement and apply different tracer kinetic models for analyzing dynamic positron emission tomography (PET) data, particularly in response to the challenges emerging in total-body PET kinetic modeling. The primary objective of this open-source package is to share tracer kinetic modeling techniques and offer kinetic modeling developers a foundation to build upon without starting from scratch. The package is originally developed at the University of California, Davis. Its open-source version is initiated as a part of the OpenKMI. 
+<img align="left" src="https://github.com/user-attachments/assets/dc93ccfc-7ab0-4cde-b3f4-aeabd3562033" width="500" >
 
-<img align="right" src="https://github.com/user-attachments/assets/dc93ccfc-7ab0-4cde-b3f4-aeabd3562033" width="500" >
+One of the ongoing efforts of the initiative, **OpenKMAP**, is to make a set of in-house C/C++ source codes (and their wrappers with other high-level programming languages such as MATLAB) for kinetic modeling and parametric imaging open to kinetic modeling developers. **KMAP (Kinetic Modeling and Analysis Package)** offers a collection of source code and wrapper functions designed to implement and apply different tracer kinetic models for analyzing dynamic positron emission tomography (PET) data, particularly in response to the challenges emerging in total-body PET kinetic modeling. The primary objective of this open-source package is to share tracer kinetic modeling techniques and offer kinetic modeling developers a foundation to build upon without starting from scratch. The package is originally developed at the University of California, Davis. Its open-source version is initiated as a part of the OpenKMI. 
 
 As part of OpenKMAP, two key packages are currently provided:
 
