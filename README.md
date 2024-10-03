@@ -1,4 +1,4 @@
-# Open KMI Code Projects
+# OpenKMI Code Projects
 
 ## Overview
 The [Open Kinetic Modeling Initiative (OpenKMI)](https://www.openkmi.org/) is an open-source effort aimed at accelerating research and educational opportunities in tracer kinetic modeling, particularly in the field of molecular imaging. Tracer kinetic modeling allows for quantitative characterization of molecular processes, such as those involved in cancer and other major diseases. While the field has seen extensive research over the years, its clinical adoption has been limited by technological constraints in PET scanner performance. With advancements such as total-body PET and other long axial field-of-view PET scanners, there is a renewed interest in pushing kinetic modeling forward, and the need for accessible resources has never been greater. OpenKMI seeks to meet this need by offering robust, open-source solutions that make kinetic modeling more accessible to both experienced researchers and newcomers. 
