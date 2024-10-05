@@ -9,7 +9,7 @@ The [Open Kinetic Modeling Initiative (OpenKMI)](https://www.openkmi.org/) is an
 
 <img align="left" src="https://github.com/user-attachments/assets/dc93ccfc-7ab0-4cde-b3f4-aeabd3562033" width="300" >
 
-As part of OpenKMAP, two key packages are currently provided:
+As part of **OpenKMAP**, two key packages are currently provided:
 
 - **[C-KMAP](https://github.com/OpenKMI/C-KMAP):** A C/C++ toolkit that provides a suite of routines for implementing various tracer kinetic models. These include source code and MEX files that enable integration with other software, such as MATLAB.
   
