@@ -21,6 +21,8 @@ Together, C-KMAP and M-KMAP offer a solution for researchers in tracer kinetic m
 
 ## OpenIFun: an OpenKMI data project
 
+<img align="left" src="https://github.com/user-attachments/assets/41b61f6a-cb57-4dc5-81a0-494647602fe8 width="500" >
+
 **[OpenIFun](https://github.com/OpenKMI/OpenIFun)** is an open-data project aiming to build a database of blood input functions for tracer kinetic modeling of dynamic PET data. The first effort focuses on using total-body PET scanners to acquire image-derived input functions (IDIF) from major blood pools and plans to collect from dynamic FDG-PET scans of 200 human subjects across multiple institutions.
 
 ## Contributing
