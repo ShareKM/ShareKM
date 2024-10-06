@@ -11,11 +11,11 @@ The **[Open Kinetic Modeling Initiative (OpenKMI)](https://www.openkmi.org/)** i
 
 As part of **OpenKMAP**, two key packages are currently provided:
 
-- **[C-KMAP](https://github.com/OpenKMI/C-KMAP):** A C/C++ toolkit that provides a suite of routines for implementing various tracer kinetic models. These include source code and MEX files that enable integration with other software, such as MATLAB.
+- **[KMAP-C](https://github.com/OpenKMI/C-KMAP):** A C/C++ toolkit that provides a suite of routines for implementing various tracer kinetic models. These include source code and MEX files that enable integration with other software, such as MATLAB.
   
-- **[M-KMAP](https://github.com/OpenKMI/M-KMAP):** A MATLAB toolbox built on top of C-KMAP. This toolbox provides a user-friendly interface for performing kinetic modeling and analysis using MATLAB, with support for multiple operating systems including Windows, Linux, and macOS.
+- **[KMAP-M](https://github.com/OpenKMI/M-KMAP):** A MATLAB toolbox built on top of KMAP-C. This toolbox provides a user-friendly interface for performing kinetic modeling and analysis using MATLAB, with support for multiple operating systems including Windows, Linux, and macOS.
 
-Together, C-KMAP and M-KMAP offer a solution for researchers in tracer kinetic modeling, providing both the low-level computational tools and the high-level MATLAB functionality.
+Together, KMAP-C and KMAP-M offer a solution for researchers in tracer kinetic modeling, providing both the low-level computational tools and the high-level MATLAB functionality.
 
 >[!NOTE]
 >**Ongoing Efforts**: Both KMAP-C and KMAP-M are continually being updated. The development team is working on adding new models, optimizing performance, and expanding the functionality of them. **The packages are provided “as is” without warranty**, but contributions from the community are highly encouraged to improve and expand the tools.
