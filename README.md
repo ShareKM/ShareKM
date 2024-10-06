@@ -1,7 +1,7 @@
 # OpenKMI GitHub
 
 ## Overview
-The **[Open Kinetic Modeling Initiative (OpenKMI)](https://www.openkmi.org/)** is an open-source effort aimed at accelerating research and educational opportunities in tracer kinetic modeling for molecular imaging. Tracer kinetic modeling allows for quantitative characterization of molecular processes. While the field has seen extensive research over the years, its clinical adoption has been limited by technological constraints in PET scanner performance. With advancements such as total-body PET and other long axial field-of-view PET scanners, there is a renewed interest in pushing kinetic modeling forward, and the need for accessible resources has never been greater. OpenKMI seeks to meet this need by offering open-source solutions to make kinetic modeling more accessible to both experienced researchers and newcomers. 
+The **[Open Kinetic Modeling Initiative (OpenKMI)](https://www.openkmi.org/)** is an open-source effort aimed at accelerating research and educational opportunities in tracer kinetic modeling for molecular imaging. Tracer kinetic modeling allows for the quantitative characterization of molecular processes. While the field has seen extensive research over the years, its clinical adoption has been limited by technological constraints in PET scanner performance. With advancements such as total-body PET and other long axial field-of-view PET scanners, there is a renewed interest in pushing kinetic modeling forward, and the need for accessible resources has never been greater. OpenKMI seeks to meet this need by offering open-source solutions to make kinetic modeling more accessible to both experienced researchers and newcomers. 
 
 ## OpenKMAP: an OpenKMI code project
 
@@ -18,7 +18,7 @@ As part of **OpenKMAP**, two key packages are currently provided:
 Together, KMAP-C and KMAP-M offer a solution for researchers in tracer kinetic modeling, providing both the low-level computational tools and the high-level MATLAB functionality.
 
 >[!NOTE]
->**Ongoing Efforts**: Both KMAP-C and KMAP-M are continually being updated. The development team is working on adding new models, optimizing performance, and expanding the functionality. **These packages are provided “as is” without warranty**, but contributions from the community are highly encouraged to improve and expand the tools.
+>**Ongoing Effort**: Both KMAP-C and KMAP-M are continually being updated. The development team is working on adding new models, optimizing performance, and expanding the functionality. **These packages are provided “as is” without warranty**, but contributions from the community are highly encouraged to improve and expand the tools.
 
 ## OpenIFun: an OpenKMI data project
 
