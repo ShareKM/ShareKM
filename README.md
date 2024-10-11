@@ -1,9 +1,6 @@
 # OpenKMI GitHub
 
-## Overview
-The **[Open Kinetic Modeling Initiative (OpenKMI)](https://www.openkmi.org/)** is an open-source effort aimed at accelerating research and educational opportunities in tracer kinetic modeling for molecular imaging. Tracer kinetic modeling allows for the quantitative characterization of molecular processes. While the field has seen extensive research over the years, its clinical adoption has been limited by technological constraints in PET scanner performance. With advancements such as total-body PET and other long axial field-of-view PET scanners, there is a renewed interest in pushing kinetic modeling forward, and the need for accessible resources has never been greater. OpenKMI seeks to meet this need by offering open-source solutions to make kinetic modeling more accessible to both experienced researchers and newcomers. 
-
-## OpenKMAP: an OpenKMI code project
+## OpenKMAP
 
 **KMAP (Kinetic Modeling and Analysis Package)** offers a collection of C/C++ source code and wrapper functions designed to implement and apply different tracer kinetic models for analyzing dynamic positron emission tomography (PET) data, particularly in response to the challenges emerging in total-body PET kinetic modeling. The package was originally developed at the University of California, Davis. Its open-source version, **OpenKMAP**, is launched as a part of the OpenKMI. The primary objective of this open-source package is to share tracer kinetic modeling techniques and offer kinetic modeling developers a foundation to build upon without starting from scratch. 
 
@@ -20,7 +17,7 @@ Together, KMAP-C and KMAP-M offer a solution for researchers in tracer kinetic m
 >[!NOTE]
 >**Ongoing Effort**: Both KMAP-C and KMAP-M are continually being updated. The development team is working on adding new models, optimizing performance, and expanding the functionality. **These packages are provided “as is” without warranty**, but contributions from the community are highly encouraged to improve and expand the tools.
 
-## OpenIFun: an OpenKMI data project
+## OpenIFun
 
 <img align="right" src="https://github.com/user-attachments/assets/73174ebe-ea61-40b7-b400-256d85dbbc41" width="200" >
 
