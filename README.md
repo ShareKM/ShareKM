@@ -1,5 +1,3 @@
-# OpenKMI GitHub
-
 ## OpenKMAP
 
 **KMAP (Kinetic Modeling and Analysis Package)** offers a collection of C/C++ source code and wrapper functions designed to implement and apply different tracer kinetic models for analyzing dynamic positron emission tomography (PET) data, particularly in response to the challenges emerging in total-body PET kinetic modeling. The package was originally developed at the University of California, Davis. Its open-source version, **OpenKMAP**, is launched as a part of the OpenKMI. The primary objective of this open-source package is to share tracer kinetic modeling techniques and offer kinetic modeling developers a foundation to build upon without starting from scratch. 
