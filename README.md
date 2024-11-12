@@ -13,9 +13,9 @@ As part of **OpenKMAP**, two key packages are currently provided:
 Together, KMAP-C and KMAP-M offer a solution for researchers in tracer kinetic modeling, providing both the low-level computational tools and the high-level MATLAB functionality.
 
 >[!WARNING]
->The **OpenKMAP** packages offer open-source code to disseminate basic and advanced tracer kinetic modeling approaches in a timely matter. These packages are not intended to serve as a comprehensive and user-friendly software solution for end users. The shared code may only reflect the interests of a very limited number of research groups. For those seeking an all-encompassing solution, commercial software like PMOD may be a better option.
+>The **OpenKMAP** packages offer open-source code to disseminate basic and advanced tracer kinetic modeling approaches in a timely matter. These packages are not intended to serve as a comprehensive and user-friendly software solution for end users. For those seeking an all-encompassing solution, commercial software like PMOD may be a better option.
 >
->Both KMAP-C and KMAP-M are continually being updated. The development team is working on adding new models, optimizing performance, and expanding the functionality. These packages are provided “as is” without warranty.
+>Both KMAP-C and KMAP-M are continually being updated. The development team is working on adding new models, optimizing performance, and expanding the functionality. These packages are provided “as is” without warranty. The shared code may also only reflect the interests of a very limited number of research groups. 
 
 ## Contributing
 We welcome contributions from the community! Whether you’d like to suggest improvements, report bugs, or contribute code, we encourage you to get involved. Please refer to the contribution guidelines in each repository for more details.
