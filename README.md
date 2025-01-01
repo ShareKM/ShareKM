@@ -8,7 +8,7 @@ As part of the open-source **ShareKMAP**, two key packages are currently provide
 
 - **[KMAP-C](https://github.com/openkmi/KMAP-C):** A C/C++ toolkit that provides a suite of routines for implementing various tracer kinetic models. These include source code and MEX files that enable integration with other software, such as MATLAB.
   
-- **[KMAP-M](https://github.com/openkmi/KMAP-M):** A MATLAB toolbox built on top of OpenKMAP-C. This toolbox provides an interface for performing kinetic modeling and analysis using MATLAB, supporting multiple operating systems including Windows, Linux, and macOS.
+- **[KMAP-M](https://github.com/openkmi/KMAP-M):** A MATLAB toolbox built on top of **KMAP-C**. This toolbox provides an interface for performing kinetic modeling and analysis using MATLAB, supporting multiple operating systems including Windows, Linux, and macOS.
 
 Together, **KMAP-C** and **KMAP-M** offer a solution for researchers in tracer kinetic modeling, providing both the low-level computational tools and the high-level MATLAB functionality.
 
