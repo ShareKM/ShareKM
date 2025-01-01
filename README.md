@@ -1,10 +1,10 @@
 ## ShareKMAP
 
-**KMAP (Kinetic Modeling and Analysis Package)** offers a collection of C/C++ source code and wrapper functions designed to implement and apply different tracer kinetic models for analyzing dynamic positron emission tomography (PET) data, particularly in response to the challenges emerging in total-body PET kinetic modeling. The package was originally developed at the University of California, Davis. Its open-source version was launched to support the [Open Kinetic Modeling Initiative](https://www.openkmi.org/). The primary objective of this open-source package is to share tracer kinetic modeling techniques and offer kinetic modeling developers a foundation to build upon without starting from scratch. 
+**KMAP (Kinetic Modeling and Analysis Package)** offers a collection of C/C++ source code and wrapper functions designed to implement and apply different tracer kinetic models for analyzing dynamic positron emission tomography (PET) data, particularly in response to the challenges emerging in total-body PET kinetic modeling. The package was originally developed at the University of California, Davis. Its open-source version, **ShareKMAP**, was launched to support the [Open Kinetic Modeling Initiative](https://www.openkmi.org/). The primary objective of this open-source package is to share tracer kinetic modeling techniques and offer kinetic modeling developers a foundation to build upon without starting from scratch. 
 
 <img align="left" src="https://github.com/user-attachments/assets/de27a25f-88da-4b0f-beb5-6b3c2570a878" width="400" >
 
-As part of the open-source **KMAP**, two key packages are currently provided:
+As part of the open-source **ShareKMAP**, two key packages are currently provided:
 
 - **[KMAP-C](https://github.com/openkmi/KMAP-C):** A C/C++ toolkit that provides a suite of routines for implementing various tracer kinetic models. These include source code and MEX files that enable integration with other software, such as MATLAB.
   
