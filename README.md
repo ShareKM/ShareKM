@@ -4,7 +4,7 @@
 
 <img align="left" src="https://github.com/user-attachments/assets/8752c4bd-3dd1-42f9-98f3-5b5c732e7e98" width="400" >
 
-As part of the open-source **ShareKMAP**, two key packages are currently provided:
+As part of the open-source **ShareKMAP** effort, two key packages are currently provided:
 
 - **[KMAP-C](https://github.com/openkmi/KMAP-C):** A C/C++ toolkit that provides a suite of routines for implementing various tracer kinetic models. These include source code and MEX files that enable integration with other software, such as MATLAB.
   
